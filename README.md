@@ -1,7 +1,7 @@
 
 # SETUP INTO LOCALHOST
 
-1) `git clone https://drive.google.com/drive/folders/1KccjbBd-yECFC003WRdUuZ9hlP3n0tAW?usp=sharing`
+1) `git clone https://github.com/Rana-Paul/Url-Shortner-Backend.git`
 
 2) Open the folder into vscode
 
