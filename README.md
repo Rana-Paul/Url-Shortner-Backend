@@ -5,13 +5,15 @@
 
 2) Open the folder into vscode
 
-3) Go inside of the `api/routes/url` file
+3) Run `npm install`
 
-4) Edit line no. 47 replace it to ``http://localhost/url/${isExistInDb.url}``
+4) Go inside of the `api/routes/url` file
 
-5) Edit line no. 72 replace it to ``http://localhost/url/${sortUrl}``
+5) Edit line no. 47 replace it to ``http://localhost/url/${isExistInDb.url}``
 
-6) `npm start`
+6) Edit line no. 72 replace it to ``http://localhost/url/${sortUrl}``
+
+7) Run `npm start`
 
 # ROUTES
 
