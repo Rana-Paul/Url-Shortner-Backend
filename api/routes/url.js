@@ -43,7 +43,7 @@ router.post("/", auth, async (req, res) => {
   if (isExistInDb) {
     res.status(200).send({
       message: "Sort Url is Already present",
-      url: `localhost:3000/${isExistInDb.url}`,
+      url: `http://3.80.156.254/url/${isExistInDb.url}`,
     });
   } else {
     //sort id generate
@@ -68,7 +68,7 @@ router.post("/", auth, async (req, res) => {
 
       res.status(201).send({
         message: `Sucessfully Url Created`,
-        url: `localhost:8000/url/${sortUrl}`,
+        url: `http://3.80.156.254/url/${sortUrl}`,
       });
     } catch (error) {
       res.status(400).send({
