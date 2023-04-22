@@ -1,6 +1,8 @@
 
 # SETUP INTO LOCALHOST
 
+*** i'm not using `.ev` file in this project because it's a Demo. Project ***
+
 1) `git clone https://github.com/Rana-Paul/Url-Shortner-Backend.git`
 
 2) Open the folder into vscode
