@@ -1,7 +1,7 @@
 
 # SETUP INTO LOCALHOST
 
-*** i'm not using `.ev` file in this project because it's a Demo. Project ***
+*** i'm not using `.env` file in this project because it's a Demo. Project ***
 
 1) `git clone https://github.com/Rana-Paul/Url-Shortner-Backend.git`
 
